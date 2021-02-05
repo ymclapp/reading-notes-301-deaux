@@ -7,4 +7,17 @@ My reading notes pages will be a collection of questions, observations, code sni
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-Adding more soon
+- [ ] Add **Career** notes
+- [ ] Add notes from **Reading** assignments
+- [ ] Add **Interesting** code
+
+To be able to ensure that I get my reading notes done, I need to:
+1.  Put the assignment on my planner
+2.  Put a reminder into my calendar
+3.  Just do it!
+
+---
+
+- Assignment 1
+- Assignment 2
+
