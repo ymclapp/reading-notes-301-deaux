@@ -7,4 +7,4 @@ My reading notes pages will be a collection of questions, observations, code sni
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-
+Adding more soon
