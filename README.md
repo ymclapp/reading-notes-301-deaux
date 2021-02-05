@@ -18,6 +18,6 @@ To be able to ensure that I get my reading notes done, I need to:
 
 ---
 
-- Assignment 1
-- Assignment 2
+- [Reading 01](rl1.md)
+- Reading 02
 
