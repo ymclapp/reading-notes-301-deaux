@@ -5,8 +5,10 @@ I used a pipeline for my work.  I know that I need review apps and then want to 
 
 I have it in my notes to make sure that I get my API keys so that I can update those in the .env file and then in all three locations of Heroku in the configs area.
 
-We can't do much in Heroku until we have our database set up and make sure that it is connecting correctly in the local host.
+We can't do much in Heroku until we have our database set up and make sure that it is connecting correctly in the local host.  Also make sure to connect with Git to get the pushes to go directly to Heroku when you push/merge pull requests.
 
 We will get very familiar with Heroku if we do City Explorer or similar app this time too.
 
 My Heroku is all ready to go!!
+
+PS:  when things don't go right, ready the logs.  It sucks, but do it.

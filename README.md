@@ -20,5 +20,7 @@ To be able to ensure that I get my reading notes done, I need to:
 
 - [Reading 01](rl1.md)
 - Reading 02
-- [Reading 04](rl4.md)
+- Reading 03
+- Reading 04
+- [Reading 05](rl5.md)
 
