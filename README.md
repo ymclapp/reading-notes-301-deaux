@@ -28,3 +28,4 @@ To be able to ensure that I get my reading notes done, I need to:
 - [Reading 08](rl8.md)
 - [Reading 09](rl9.md)
 - [Reading 10](rl10.md)
+- [Reading 11](rl11.md)
