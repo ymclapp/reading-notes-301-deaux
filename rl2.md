@@ -15,3 +15,23 @@ While there are many different styles, pair programming commonly involves two ro
     - A common step in many interview processes involves pair programming between a current employee and an applicant, either in person or through a shared screen
 6. Work environment readiness
     - Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product
+
+# JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357
+
+jQuery:  There are at least a couple of benefits of using jQuery.  One is the selectors are very similar to CSS selectors which makes it common to remember.  The second is there is a library already built with code for a lot of the processes, so you write less code.
+
+1. In order to use jQuery, the first thing you need to do is include the jQuery script in your page.  You can see that it is included before the closing </body> tag. 
+
+2. Once jQuery has been added to the page, a second JavaScript file is included that uses jQuery selectors and methods to update the content of the HTML page. 
+
+## Summary:
+
+1.  jQuery is a JavaScript file you include in your pages.  
+2.  Once included, it makes it faster and easier to write cross-browser JavaScript, based on two steps:
+    - Using CSS-style selectors to collect one or more nodes from the DOM tree.
+    - Using jQuery's built-in methods to work with the elements in that selection.
+3.  jQuery's CSS-style selector syntax makes it easier to select elements to work with. It also has methods that make it easier to traverse the DOM.
+4.  jQuery makes it easier to handle events because the event methods work across all browsers.  
+5.  jQuery offers methods that make it quick and simple to achieve a range of tasks that JavaScript programmers commonly need to perform. 
+
+
