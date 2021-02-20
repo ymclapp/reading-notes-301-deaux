@@ -1,4 +1,4 @@
-#  MUSTACHE
+# Mustache
 
 Mustache is a logic-less template syntax. It can be used for HTML, config files, source code — anything. It works by expanding tags in a template using values provided in a hash or object.
 
@@ -8,7 +8,7 @@ mustache.js is an implementation of the mustache template system in JavaScript. 
 
 Remember:  {{}} is calling something to template whereas {{{}}} is inserting something
 
- #  FLEXBOX
+# Flexbox
 
 There is so much information and examples of using flex box that it is hard to give just a summary.  Here are some sites that guided me and a cheatsheet:
 
