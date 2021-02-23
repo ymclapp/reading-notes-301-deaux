@@ -30,3 +30,4 @@ To be able to ensure that I get my reading notes done, I need to:
 - [Reading 10](rl10.md)
 - [Reading 11](rl11.md)
 - [Reading 12](rl12.md)
+- [Reading 13](rl13.md)
