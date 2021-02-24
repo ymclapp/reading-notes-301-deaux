@@ -31,3 +31,5 @@ To be able to ensure that I get my reading notes done, I need to:
 - [Reading 11](rl11.md)
 - [Reading 12](rl12.md)
 - [Reading 13](rl13.md)
+- [Reading 14a](rl14a.md)
+- [Reading 14b](rl14b.md)     
