@@ -23,6 +23,7 @@ My reading notes pages will be a collection of questions, observations, code sni
 - [Reading 15](rl15.md)
 
 ### 301 Trois
+- [Reading 01](1rl.md)
 
 ## Code 401 - Advanced Software Development
 
