@@ -1,4 +1,4 @@
-#  Readings: State and Props
+#  Readings: State and Props (https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 ![React Lifecycle](images/React Lifecycle.jpg)
 
 1.  Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
