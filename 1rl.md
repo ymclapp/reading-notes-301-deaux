@@ -6,7 +6,7 @@
 1.  What is a component?
     -  Components let you split the US into independent, reusable pieces, and think about each piece in isolation.  Like JavaScript functions.
 
-2.  What are the charactistics of a component? - (https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+2.  What are the characteristics of a component? - (https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
     -  Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
     -  Replaceable − Components may be freely substituted with other similar components.
     -  Not context specific − Components are designed to operate in different environments and contexts.
