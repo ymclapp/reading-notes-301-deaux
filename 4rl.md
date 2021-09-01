@@ -2,7 +2,7 @@
 
 ##  Reading
 
-# React Docs - Forms (https://reactjs.org/docs/forms.html)
+### React Docs - Forms (https://reactjs.org/docs/forms.html)
 1.  What is a ‘Controlled Component’?
     -  You can have a form in react accept information and it just will.  BUT, if you want it to store it so that you have access to it, then you use a controlled component
     -  In React, mutable state is typically kept in the state property of components, and only updated with setState().
@@ -62,14 +62,14 @@ class Reservation extends React.Component {
   }
 }
 
-# The Conditional (Ternary) Operator Explained (https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+### The Conditional (Ternary) Operator Explained (https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 1.  Why would we use a ternary operator?
     -  Syntax:  condition ? value if true : value if false  Ex:  person.driver = person.age >=16 ? 'Yes' : 'No';
         1.  The condition is what you’re actually testing. The result of your condition should be true or false or at least coerce to either boolean value.
         2.  A ? separates our conditional from our true value. Anything between the ? and the : is what is executed if the condition evaluates to true.
         3.  Finally a : colon. If your condition evaluates to false, any code after the colon is executed.
     -  Based on the title of the article:  Shorten your if statements into one line of code with the conditional operator
-2.  Rewrite the following statement using a ternary statement:
+2.  Rewrite the following statement using a ternary statement:<br><br>
   ![Trenary Example](images/Trenary example.jpg)
   
   xy = x===y ? console.log(true) : console.log(false);
