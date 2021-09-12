@@ -33,6 +33,7 @@ My reading notes pages will be a collection of questions, observations, code sni
 - [Reading 08](8rl.md)
 - [Reading 09](9rl.md)
 - [Reading 10](10rl.md)
+- [Reading 11](11rl.md)
 
 ## Code 401 - Advanced Software Development
 
