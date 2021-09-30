@@ -1,6 +1,6 @@
 
 # Reading Notes
-My reading notes pages will be a collection of questions, observations, code snippets, etc. as I push the 301 coding information into my head.
+My reading notes pages will be a collection of questions, observations, code snippets, etc. as I push the 301 coding information into my head.  And 301 a second time AND now 401.  Enjoy the ride!
 
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
@@ -38,8 +38,9 @@ My reading notes pages will be a collection of questions, observations, code sni
 - [Reading 13](13rl.md)
 - [Reading 14](14rl.md)
 
-
 ## Code 401 - Advanced Software Development
+- [Reading 01](401_01rl.md)
+
 
 - [ ] Add **Career** notes
 - [ ] Add notes from **Reading** assignments
