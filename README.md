@@ -40,6 +40,7 @@ My reading notes pages will be a collection of questions, observations, code sni
 
 ## Code 401 - Advanced Software Development
 - [Reading 01](401_01rl.md)
+- [Reading 02](401_02rl.md)
 
 
 - [ ] Add **Career** notes
