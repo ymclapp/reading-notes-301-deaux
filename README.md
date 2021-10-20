@@ -38,6 +38,7 @@ My reading notes pages will be a collection of questions, observations, code sni
 - [Reading 13](13rl.md)
 - [Reading 14](14rl.md)
 
+
 ## Code 401 - Advanced Software Development
 - [Prep:  C# History](401_preWorkrl.md)
 - [Reading 01](401_01rl.md)
