@@ -59,6 +59,7 @@ My reading notes pages will be a collection of questions, observations, code sni
 - [Reading 16](401_16rl.md)
 - [Reading 17](401_17rl.md)
 - [Reading 18](401_18rl.md)
+- [Reading 19](401_19rl.md)
 
 - [ ] Add **Career** notes
 - [ ] Add notes from **Reading** assignments
