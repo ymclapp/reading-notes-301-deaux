@@ -70,6 +70,7 @@ My reading notes pages will be a collection of questions, observations, code sni
 - [Reading 33](401_33rl.md)
 - [Reading 34](401_34rl.md)
 - [Reading 35](401_35rl.md)
+- [Reading 36](401_36rl.md)
 
 - [ ] Add **Career** notes
 - [ ] Add notes from **Reading** assignments
